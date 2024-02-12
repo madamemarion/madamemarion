@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Marion! 👋
 
-<!--
-**madamemarion/madamemarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am learning web development and responsive design one line at a time. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 💻 HTML
+- 🎨 CSS
+- 🚀 JavaScript
+- 🌐 API Integration
+- 🌐 Web Hosting
+- 🅱️ Bootstrap
+
+
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/marionfrotte/)
+- [Instagram](https://www.instagram.com/madamemarion/)
+
+
+Feel free to reach out!
